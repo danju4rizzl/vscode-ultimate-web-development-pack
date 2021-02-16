@@ -4,13 +4,16 @@
     "description": "Handy Visual Studio Code extensions for productive web developers.",
     "publisher": "DeejayDev",
     "icon": "images/deejaydev_logo.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Extension Packs","Other","Snippets"
     ],
+    "scripts": {
+        "build": "vsce package"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/danju4rizzl/vscode-ultimate-web-development-pack.git"
