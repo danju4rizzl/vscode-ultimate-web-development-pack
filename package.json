@@ -1,0 +1,32 @@
+{
+    "name": "ultimate-web-development-pack",
+    "displayName": "Ultimate Web Development Pack",
+    "description": "Handy Visual Studio Code extensions for productive web developers.",
+    "publisher": "DeejayDev",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "alefragnani.Bookmarks", 
+        "bierner.emojisense", 
+        "burkeholland.simple-react-snippets", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "naumovs.color-highlight", 
+        "NuclleaR.vscode-extension-auto-import", 
+        "ritwickdey.live-sass", 
+        "ritwickdey.LiveServer", 
+        "streetsidesoftware.code-spell-checker", 
+        "TabNine.tabnine-vscode"
+    ]
+}
