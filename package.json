@@ -3,18 +3,24 @@
     "displayName": "Ultimate Web Development Pack",
     "description": "Handy Visual Studio Code extensions for productive web developers.",
     "publisher": "DeejayDev",
-    "version": "0.0.1",
+    "icon": "images/deejaydev_logo.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs","Other","Snippets"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danju4rizzl/vscode-ultimate-web-development-pack.git"
+      },  "galleryBanner": {
+        "color": "#0C0C0C",
+        "theme": "dark"
+      },
     "extensionPack": [ 
         "aaron-bond.better-comments", 
         "alefragnani.Bookmarks", 
-        "bierner.emojisense", 
-        "burkeholland.simple-react-snippets", 
         "christian-kohler.path-intellisense", 
         "CoenraadS.bracket-pair-colorizer", 
         "dsznajder.es7-react-js-snippets", 
@@ -28,5 +34,24 @@
         "ritwickdey.LiveServer", 
         "streetsidesoftware.code-spell-checker", 
         "TabNine.tabnine-vscode"
+    ],"keywords": [
+        "web development",
+        "ai code complete",
+        "line and block highlighting",
+        "spell checker",
+        "dev server",
+        "hot reload",
+        "auto import module",
+        "ai commenting",
+        "tag closing",
+        "tag rename",
+        "hex code highlighting",
+        "sass compiler",
+        "version control",
+        "code formatting",
+        "code bookmarking",
+        "comment highlighting",
+        "code suggestions",
+        "code snippets"
     ]
 }
